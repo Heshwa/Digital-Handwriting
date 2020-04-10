@@ -1,0 +1,7 @@
+google-cloud-storage==1.27.0
+google-cloud-vision==1.0.0
+handwritingio==1.0.0
+SpeechRecognition==3.8.1
+opencv-python==4.2.0.34
+Pillow==7.1.1
+Flask==1.1.2
